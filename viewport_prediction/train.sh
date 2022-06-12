@@ -1,0 +1,1 @@
+python personalized_meta_train.py --train=True --test=True --model_name="meta_viewport_lstm_all2" --epoch=10

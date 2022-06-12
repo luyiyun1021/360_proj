@@ -1,0 +1,1 @@
+python train_ac.py --log="abr_1_0.25_0.25"
